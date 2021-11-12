@@ -1,14 +1,16 @@
-### Recriando a página inicial do Instagram :camera:
+## Recriando a página inicial do Instagram :camera:
 
 Projeto integrado no bootcamp HTML Web Developer da Digital Innovation One com o objetivo de praticar os conceitos de Flexbox e responsavidade.
 
-	###### Página de login:
-![Instagram login page](https://i.imgur.com/YJe47qV.jpg "Instagram Login Page)
+#### Página de login:
+	
+![Instagram login page](https://i.imgur.com/YJe47qV.jpg)
 
-	###### Responsividade:
-![Instagram login page](https://imgur.com/TcKOcad "Instagram Login Page)
+#### Responsividade:
+![Instagram login page](https://imgur.com/TcKOcad.jpg)
 
 
-	## :large_blue_diamond: Linguagens utilizadas:
-[HTML] (https://github.com/topics/html)
-[CSS] (https://github.com/topics/css)
+:large_blue_diamond: Linguagens utilizadas:
+
+* [HTML](https://github.com/topics/html)
+* [CSS](https://github.com/topics/css)
