@@ -4,13 +4,16 @@ Projeto integrado no bootcamp HTML Web Developer da Digital Innovation One com o
 
 #### Página de login:
 	
-![Instagram login page](https://i.imgur.com/YJe47qV.jpg)
+ <img height="350em" src="https://i.imgur.com/YJe47qV.jpg" alt="Instagram login page" border="0">
 
 #### Responsividade:
-![Instagram login page](https://imgur.com/TcKOcad.jpg)
 
+ <img height="380em" src="https://imgur.com/TcKOcad.jpg" alt="Instagram login page" border="0">
 
-:large_blue_diamond: Linguagens utilizadas:
+<p>
+<p>
+:large_blue_diamond: Tecnologias utilizadas:
 
 * [HTML](https://github.com/topics/html)
 * [CSS](https://github.com/topics/css)
+
